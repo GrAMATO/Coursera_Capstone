@@ -160,8 +160,8 @@ def check_code(df_code, line, code):
 
 def getNearbyVenues(names, latitudes, longitudes, radius=500):
     """Find all nerby venues with restaurant location"""
-    CLIENT_ID = "B3LAUXIV2ZCAJ0OAH3WISHADXQXOUGKH5UBHXFEPCN0C1DOX"
-    CLIENT_SECRET = "0XDUGXJXN21JG5T1AUQMWK3ZDVRDHIOFCHJ5DGSUOIKYERGK"
+    CLIENT_ID = 
+    CLIENT_SECRET = 
     VERSION = '20180605' # Foursquare API version
     LIMIT = 100 # A default Foursquare API limit value
     venues_list=[]
